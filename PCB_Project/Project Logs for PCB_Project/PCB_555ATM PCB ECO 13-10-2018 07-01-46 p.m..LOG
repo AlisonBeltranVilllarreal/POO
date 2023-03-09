@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=Cap 100uf 25v
+Change Component Footprint: Designator=D2 Old Footprint=LED-1 New Footprint=Cap 100uf 25v
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R7-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R8-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=SCH_555 Member=Component D3 LED1
+Added Member To Class: ClassName=SCH_555 Member=Component D4 LED1
